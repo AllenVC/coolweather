@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="cool_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.example.weathertest.db.Provience"/>
+        <mapping class="com.example.weathertest.db.City"/>
+        <mapping class="com.example.weathertest.db.Country"/>
+    </list>
+</litepal>
